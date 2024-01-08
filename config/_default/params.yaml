@@ -34,11 +34,15 @@ marketing:
 header:
   navbar:
     enable: true
+    blox: "navbar"
     align: r
+    # logo:
+    #   text: 'The Research Group of Hanyu Gao'
+    #   filename: 'logo.png'
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: false
 
 # Site footer
