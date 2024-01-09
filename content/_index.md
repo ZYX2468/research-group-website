@@ -19,8 +19,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#661'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Polymer Reaction Engineering and Process Optimization
+        content: Combine optimization algorithms and simulation models to designing reaction recipe for desired polymer properties
         align: left
         background:
           image:
@@ -29,17 +29,17 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        url: 'https://sled.eecs.umich.edu/'
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
+      # - title: World-Class Semiconductor Lab
+      #   url: 'https://sled.eecs.umich.edu/'
+      #   content: 'Just opened last month!'
+      #   align: right
+      #   background:
+      #     image:
+      #       filename: welcome.jpg
+      #       filters:
+      #         brightness: 0.5
+      #     position: center
+      #     color: '#333'
           
         # link:
           # icon: graduation-cap
